@@ -1,0 +1,2 @@
+Proof-of-concept "constant test" demo for Pike. Uses ideas borrowed from
+Python's doctest.
